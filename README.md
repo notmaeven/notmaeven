@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+current objective:
+- make this readme file actually do its thing
+
 <!--
 **notmaeven/notmaeven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
