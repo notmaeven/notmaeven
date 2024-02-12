@@ -1,19 +1,11 @@
-### Hi there 👋
+### Greetings, the name's maeven. 
 
-current objective:
-- make this readme file actually do its thing
+current projects:
+- DFRDungeons, a randomly-generated dungeon crawler in Minecraft
+- The Spiral, a story-driven puzzle game involving time, alternate realities and clocks.
 
-<!--
-**notmaeven/notmaeven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+if (world.getGod().equals(me)) {
+  me.setProof(you.toProof());
+}
+                                  - Mili, world.execute(me);
