@@ -2,7 +2,7 @@
 
 current projects:
 - DFRDungeons, a randomly-generated dungeon crawler in Minecraft
-- The Spiral, a story-driven puzzle game involving time, alternate realities and clocks.
+- Game Jams (gamedev.tv 2024, GMTK Jam 2024), stay tuned
 
 ---
 if (world.getGod().equals(me)) {
